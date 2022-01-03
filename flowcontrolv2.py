@@ -39,7 +39,7 @@ if age < 12:
     print('You are a youngin')
 elif age >= 101:
     print('Unlike you, Alice is not an undead immortal vampire.')
-elif age > 100:
+elif age >= 100:
     print('You are not Alice, grannie.')
 elif age >= 12 <= 100:
     print('Okay, you are probably an okay age to be a human.')
