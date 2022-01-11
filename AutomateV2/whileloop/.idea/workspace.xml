@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c9f19f1-a67b-455d-8cab-21abcc87afa7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/automate_the_boring_stuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/automate_the_boring_stuff.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../booleans.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flowcontrolv2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../functions_parameters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hello_world2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hello_worldv2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../helloworld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../integers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../multiplereturnfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../repeatfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../return_values_and_statements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scope.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../variables_floats_syntax_name_print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../whileloop.py" beforeDir="false" />
+    <list default="true" id="7c9f19f1-a67b-455d-8cab-21abcc87afa7" name="Changes" comment="waiting to figure out whats going wrong with pycharm at python meeting tonight.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +12,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="23KdRSiP00Tvm1JucS8bkS6Posr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/whileloop.py" />
   </component>
   <component name="RunManager">
     <configuration name="whileloop" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="whileloop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -67,10 +60,42 @@
       <option name="presentableId" value="Default" />
       <updated>1641486705277</updated>
       <workItem from="1641486706823" duration="64000" />
+      <workItem from="1641486784841" duration="232000" />
+      <workItem from="1641505873892" duration="637000" />
     </task>
+    <task id="LOCAL-00001" summary="waiting to figure out whats going wrong with pycharm at python meeting tonight.">
+      <created>1641486938931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641486938931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="waiting to figure out whats going wrong with pycharm at python meeting tonight.">
+      <created>1641486962280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641486962280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="waiting to figure out whats going wrong with pycharm at python meeting tonight." />
+    <option name="LAST_COMMIT_MESSAGE" value="waiting to figure out whats going wrong with pycharm at python meeting tonight." />
   </component>
 </project>
