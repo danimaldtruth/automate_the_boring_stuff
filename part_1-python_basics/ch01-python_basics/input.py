@@ -1,0 +1,6 @@
+print("Hey there!")
+print("What do they call you wanderer?")
+myName = input()
+print("Hello there, " + myName)
+print("The length of your name is.")
+print(len(myName))
