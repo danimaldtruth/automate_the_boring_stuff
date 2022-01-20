@@ -16,10 +16,11 @@ for guessesTaken in range(1, 7):
         break #this condition is the correct guess
 
 if guess == secretNumber:
-    print('Good Job! You guessed my number in ' +str(guessesTaken) + 'guesses!')
+    print('Good Job! You guessed my number in ' +str(guessesTaken) + ' guesses!')
 else:
-    print('Nope. The number I was thinking of was ' + str(SecretNumber)')
+    print('Nope. The number I was thinking of was ' + str(secretNumber))
 
 
 #note for python group. how to easily rename python files in pycharm so guessTheNumber.py can become guess_the_number.py for pythong convention.
 # additional note, what am i doing wrong here that prevents this to execute correctly
+# nvm i figured it out
